@@ -1,0 +1,16 @@
+.title{
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 5px;
+}
+
+nav{
+  background-color: #1976D2;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container{
+  margin-left: 100px;
+}
